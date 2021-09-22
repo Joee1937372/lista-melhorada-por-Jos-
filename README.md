@@ -671,6 +671,3 @@ http://flash8.crossdigital.com.br/id2266/id2266/chunklist_w1620551044.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/45Vvrld.png" group-title="Radios", 89 FM A RADIO ROCK
 http://streamingV2.shoutcast.com:80/89-a-radio-rock-sao-paulo-
-
-
-
